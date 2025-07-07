@@ -1,7 +1,6 @@
 # F1 Data Collection Utility 🏎️
 
- 
-*Replace the URL above with a link to a screenshot of your Streamlit app.*
+https://imgur.com/a/ErNZRTu
 
 ## 1. Overview
 
